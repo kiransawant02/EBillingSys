@@ -1,5 +1,3 @@
-![image](https://github.com/kiransawant02/EBillingSys/assets/75112767/9c9d3bc8-8247-42a3-88cb-9dcccedff51e)# EBillingSys
-
 E-Billing Website – The e-Billing System is a dynamic web application mini project crafted 
 using ASP.NET MVC and C# language, backed by SQL Server database. This user-friendly 
 platform offers a comprehensive set of features, including a centralized listing of bills, user specific bill views, and a seamless bill creation process. 
